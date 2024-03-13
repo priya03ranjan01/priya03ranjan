@@ -42,19 +42,20 @@
 
  <br/>
   
+ <!-- 
  ---- 
  
 </div>
- <details>
+  <details>
     <summary><h3>:zap: CLICK TO SEE SOMETHING INTERESTING...</h3></summary>
 
  <h3 align="left"> Just a snake devouring all my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  : </h3>
 
 ![snake gif](https://github.com/priya03ranjan01/priya03ranjan01/blob/output/github-contribution-grid-snake.gif)
 
- </details>
+ </details> 
 <div>
-  
+ --> 
  ----
   
  <br/>
@@ -69,10 +70,10 @@
      <p align="left">
      <a href="https://github.com/priya03ranjan01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=priya03ranjan01&show_icons=true&theme=radical" alt="Streaks"/></a>
   </p>
-
+<!--
 <br/>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=priya03ranjan01&theme=radical&hide_border=true&area=true)
+ ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=priya03ranjan01&theme=radical&hide_border=true&area=true)
+-->
 
 ---
   
@@ -84,7 +85,7 @@
 [![Gmail](https://img.icons8.com/bubbles/50/000000/gmail.png)](mailto:11ranjanpriya@gmail.com)
 [![LinkedIn](https://img.icons8.com/bubbles/50/000000/linkedin.png)](https://www.linkedin.com/in/priya-ranjan-333091202/)
 [![Facebook](https://img.icons8.com/bubbles/50/000000/facebook-new.png)](https://www.facebook.com/profile.php?id=100040233038754)
-[![Twitter](https://img.icons8.com/bubbles/50/000000/twitter.png)](https://twitter.com/Pr1ya_Ranjan)
+[![Twitter](https://img.icons8.com/bubbles/50/000000/twitter-squared.png)](https://twitter.com/Pr1ya_Ranjan)
 [![Instagram](https://img.icons8.com/bubbles/50/000000/instagram.png)](https://www.instagram.com/priya._.ranjan_/)
   
 </div>
